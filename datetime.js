@@ -1,5 +1,9 @@
 
 /**
+*
+* ORGINAL SOURCE: http://www.codeproject.com/Articles/62852/JavaScript-DateTime-and-TimeSpan-Wrappers
+*
+*
 * Class that handles Date and Time related operations.
 * It is very similar to .NET's DateTime class
 * Find reference and documentation at: http://menendezpoo.com
